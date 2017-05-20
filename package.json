@@ -1,47 +1,47 @@
 {
-	"//1": "describes your app and its dependencies",
-	"//2": "https://docs.npmjs.com/files/package.json",
-	"//3": "updating this file will download and update your packages",
-	"name": "my-glitch-app",
-	"version": "0.0.1",
-	"description": "What am I about?",
-	"main": "server.js",
-	"scripts": {
-		"start": "webpack-dev-server"
-	},
-	"devDependencies": {
-		"babel": "latest",
-		"babel-core": "latest",
-		"babel-loader": "latest",
-		"babel-preset-es2015": "latest",
-		"babel-preset-react": "latest",
-		"webpack": "latest",
-		"webpack-dev-server": "latest",
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "my-glitch-app",
+  "version": "0.0.1",
+  "description": "What am I about?",
+  "main": "server.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "babel": "latest",
+    "babel-core": "latest",
+    "babel-loader": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-react": "latest",
+    "webpack": "latest",
+    "webpack-dev-server": "latest",
     "babel-plugin-transform-react-jsx": "latest"
-	},
-	"dependencies": {
-		"preact": "7.2.1"
-	},
-	"engines": {
-		"node": "6.9.x"
-	},
-	"babel": {
-		"plugins": [
-			[
-				"transform-react-jsx",
-				{
-					"pragma": "h"
-				}
-			]
-		]
-	},
-	"repository": {
-		"url": "https://glitch.com/#!/project/welcome-project"
-	},
-	"license": "MIT",
-	"keywords": [
-		"node",
-		"glitch",
-		"preact"
-	]
+  },
+  "dependencies": {
+    "preact": "^8.1.0"
+  },
+  "engines": {
+    "node": "6.9.x"
+  },
+  "babel": {
+    "plugins": [
+      [
+        "transform-react-jsx",
+        {
+          "pragma": "h"
+        }
+      ]
+    ]
+  },
+  "repository": {
+    "url": "https://glitch.com/#!/project/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "preact"
+  ]
 }
