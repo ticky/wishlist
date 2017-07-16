@@ -1,4 +1,4 @@
-import { Component } from 'preact';
+import { h, Component } from 'preact'; /** jsx h */
 import { Link } from 'preact-router';
 
 export default class App extends Component {
