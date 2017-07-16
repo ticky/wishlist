@@ -1,12 +1,13 @@
 import { Component } from 'preact';
+import { Router } from 'preact-router';
 
-export default class App extends Component {
-  render() {
-    return (
-      <div>
-        <h1>shed-preact</h1>
-        <p>To remix this project visit <a href="https://glitch.com/~preact-webpack-template">https://glitch.com/~preact-webpack-template</a></p>
-      </div> 
-    );
-  }
-}
+const Main = () => (
+  <Router>
+    <Home path="/" />
+    <About path="/about" />
+    // Advanced is an optional query 
+    //<Search path="/search/:query/:advanced?" />
+  </Router>
+);
+
+export default Main;
