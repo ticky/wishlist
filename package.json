@@ -1,10 +1,7 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-  "name": "my-glitch-app",
+  "name": "shed-preact",
   "version": "0.0.1",
-  "description": "What am I about?",
+  "description": "Steve's Preact starter kit",
   "main": "server.js",
   "scripts": {
     "start": "webpack-dev-server"
@@ -20,7 +17,8 @@
     "babel-plugin-transform-react-jsx": "latest"
   },
   "dependencies": {
-    "preact": "^8.2.1"
+    "preact": "^8.2.1",
+    "preact-router": "^2.5.4"
   },
   "engines": {
     "node": "6.9.x"
@@ -36,7 +34,7 @@
     ]
   },
   "repository": {
-    "url": "https://glitch.com/#!/project/welcome-project"
+    "url": "https://glitch.com/#!/project/shed-preact"
   },
   "license": "MIT",
   "keywords": [

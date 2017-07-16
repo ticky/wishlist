@@ -14,4 +14,4 @@ Remix this project and start editing `src/App.js` to instantly be making your ap
 Technology Notes
 ----------------
 
-Most of what is in the parent project, [preact-webkit-template]
+Most of what is in the parent project, [preact-webkit-template](https://glitch.com/~preact-webpack-template), will be true ;)
