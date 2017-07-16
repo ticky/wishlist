@@ -20,7 +20,7 @@
     "babel-plugin-transform-react-jsx": "latest"
   },
   "dependencies": {
-    "preact": "^8.1.0"
+    "preact": "^8.2.1"
   },
   "engines": {
     "node": "6.9.x"
