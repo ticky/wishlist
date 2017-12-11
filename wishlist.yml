@@ -1,7 +1,11 @@
 ---
 wishlists:
-  - Discogs: https://www.discogs.com/wantlist?user=ticky_
-  - Steam: https://steamcommunity.com/id/ticky/wishlist/
+  - name: Discogs
+    link: https://www.discogs.com/wantlist?user=ticky_
+
+  - name: Steam
+    link: https://steamcommunity.com/id/ticky/wishlist/
 
 items:
-  - PSP go Cradle: https://solarisjapan.com/products/psp-playstation-go-cradle
+  - name: PSP go Cradle
+    link: https://solarisjapan.com/products/psp-playstation-go-cradle
