@@ -7,12 +7,13 @@ import Thing from '../Thing';
 export default () => {
   return (
     <div>
-      <h1>{`Jessica's meta-wishlist`}</h1>
+      <h1>Jessica’s meta-wishlist</h1>
       <h2>Other Lists</h2>
       <ul>
         {wishlists.map((wishlist) => <ExternalWishlist list={wishlist} />)}
       </ul>
-      <h2>Things I Want</h2>
+      <h2>Things</h2>
+      <p>Anything which doesn’t go on a list elsewhere can live here.</p>
       <ul>
         {things.map((thing) => <Thing thing={thing} />)}
       </ul>
