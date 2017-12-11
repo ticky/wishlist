@@ -17,10 +17,9 @@
   },
   "dependencies": {
     "preact": "^8.2.6",
-    "preact-router": "^2.6.0",
     "json-loader": "^0.5.7",
     "yaml-loader": "^0.5.0",
-    "markdown-component-loader": "^0.8.0",
+    "markdown-component-loader": "^1.0.0",
     "prop-types": "^15.6.0"
   },
   "engines": {

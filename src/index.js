@@ -1,4 +1,4 @@
 import { h, render } from 'preact'; /** @jsx h */
-import App from './App';
+import Home from '../pages/home.mdx';
 
-render(<App />, document.body);
+render(<Home />, document.body);

@@ -29,7 +29,12 @@ module.exports = {
         exclude: [ /node_modules/ ],
         use: [
           { loader: 'babel-loader' },
-          { loader:'markdown-component-loader' }
+          {
+            loader: 'markdown-component-loader',
+            options: {
+              implicitlyImportReact: false
+            }
+          }
         ]
       }
     ],
@@ -42,5 +47,8 @@ module.exports = {
     host: '0.0.0.0',
     port: 8080,
     contentBase: path.join(__dirname, 'public')
-  }
+  },
+  
+  plugins: [
+  ]
 }
