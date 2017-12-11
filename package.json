@@ -1,8 +1,7 @@
 {
-  "name": "shed-preact",
+  "name": "wishlist",
   "version": "0.0.1",
-  "description": "Steve's Preact starter kit",
-  "main": "server.js",
+  "description": "Jessica's meta-wishlist",
   "scripts": {
     "start": "webpack-dev-server"
   },
@@ -17,8 +16,8 @@
     "babel-plugin-transform-react-jsx": "latest"
   },
   "dependencies": {
-    "preact": "^8.2.1",
-    "preact-router": "^2.5.4"
+    "preact": "^8.2.6",
+    "preact-router": "^2.6.0"
   },
   "engines": {
     "node": "6.9.x"
@@ -33,13 +32,5 @@
       ]
     ]
   },
-  "repository": {
-    "url": "https://glitch.com/#!/project/shed-preact"
-  },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "preact"
-  ]
+  "license": "MIT"
 }
