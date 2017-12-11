@@ -18,6 +18,11 @@ module.exports = {
         test: /\.js?$/,
         loaders: [ 'babel-loader' ],
         exclude: [ /node_modules/ ]
+      },
+      {
+        test: /\.ya?ml$/,
+        loaders: [ 'json-loader', 'yaml-loader' ],
+        exclude: [ /node_modules/ ]
       }
     ],
   },

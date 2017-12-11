@@ -1,5 +1,7 @@
-import { h, render, Component } from 'preact'; /** @jsx h */
-
+import { h, render } from 'preact'; /** @jsx h */
 import App from './App';
 
-render(<App />, document.getElementById('main'));
+render(
+  <App />,
+  document.getElementById('main')
+);
