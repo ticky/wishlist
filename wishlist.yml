@@ -11,7 +11,10 @@ wishlists:
 
 things:
   - name: PSP go Cradle
-    link: "https://solarisjapan.com/products/psp-playstation-go-cradle"
+    link:
+      - "https://solarisjapan.com/products/psp-playstation-go-cradle"
+      - "https://www.amazon.com/PSPgo-Cradle-Sony-PSP/dp/B002EQE58Q/"
+      - "https://www.amazon.ca/PSP-Go-Cradle-Standard-Edition/dp/B002EQE58Q/"
     notes: |
       This cradle can be pretty expensive. It seems like they didn't make a lot of them!
       Solaris seem the least likely to gouge, but shopping around is a good idea.
@@ -31,9 +34,11 @@ things:
     notes: |
       Really cool! A vacuum-fluorescent display salvaged from a Soviet cassette deck, built into a neat little project kit.
     
-  - name: PSP-2000/3000 Cradle
+  - name: Cradle for PSP-2000 & PSP-3000
     link:
       - "https://solarisjapan.com/products/psp-cradle"
       - "https://solarisjapan.com/products/psp-cradle-for-psp-2000-3000-models"
     notes: |
-      
+      Not to be confused with the PSP go version, this one is a bit more attainable.
+      There are at least two models, but I believe they're both equivalent in features and included parts.
+      I'm particularly intrigued by the inclusion of a remote control!

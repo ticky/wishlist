@@ -2,11 +2,18 @@ import { h } from 'preact'; /** jsx h */
 
 const renderLinks = (links) => links.reduce((acc, url, number) => {
   const { hostname } = new URL(url);
-  return acc.join([
-    <a key={a} href={url}>
-      {hostname}
+
+  const newLink = [
+    <a key={acc.length + 1} href={url}>
+      {hostname.replace(/^www\./, '')}
     </a>
-  ]);
+  ];
+
+  if (number < links.length - 1) {
+    newLink.push(', ');
+  }
+
+  return acc.concat(newLink);
 }, [])
 
 export default ({thing}) => {
@@ -20,7 +27,7 @@ export default ({thing}) => {
     if (Array.isArray(thing.link)) {
       content = (
         <span>
-          {content} ({})
+          {content} ({renderLinks(thing.link)})
         </span>
       );
     } else {
