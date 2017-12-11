@@ -5,13 +5,17 @@ wishlists:
   - name: PC games on Steam
     link: "https://steamcommunity.com/id/ticky/wishlist/"
 
-items:
+things:
   - name: PSP go Cradle
     link: "https://solarisjapan.com/products/psp-playstation-go-cradle"
+    notes: |
+      This cradle can tend to be pretty expensive.
+      Solaris seem the least likely to gouge, but shopping around is a decent idea.
 
   - name: Gran Turismo 2 Soundtrack
     link: "https://www.ebay.com.au/itm/GAME-SOUNDTRACK-CD-music-Gran-turismo-GRAN-TURISMO-2/272176131509"
     
-  - name: This One Cool VFD VU meter project
+  - name: Vacuum Fluorescent Display VU meter kit
     link: "https://www.ebay.com.au/itm/VFD-bargraph-VU-meter-ILT6-30M-Vacuum-luminescent-indicator-DISPLAY-KIT/182368697351"
-    notes: This is really cool! A vacuum-fluorescent display salvaged from a Soviet cassette deck, built into a neat little project kit.
+    notes: |
+      Really cool! A vacuum-fluorescent display salvaged from a Soviet cassette deck, built into a neat little project kit.

@@ -1,22 +1,21 @@
-import { h, Component } from 'preact'; /** jsx h */
-import { items, wishlists } from '../../wishlist.yml';
+import { h } from 'preact'; /** jsx h */
+import { wishlists, things } from '../../wishlist.yml';
 
-import Item from '../Item';
+import ExternalWishlist from '../ExternalWishlist';
+import Thing from '../Thing';
 
-export default class App extends Component {
-  render() {
-    return (
-      <div>
-        <h1>{`Jessica's meta-wishlist`}</h1>
-        <h2>Other Lists</h2>
-        <ul>
-          {wishlists.map((item) => <Item item={item} />)}
-        </ul>
-        <h2>Things I Want</h2>
-        <ul>
-          {items.map((item) => <Item item={item} />)}
-        </ul>
-      </div>
-    );
-  }
+export default () => {
+  return (
+    <div>
+      <h1>{`Jessica's meta-wishlist`}</h1>
+      <h2>Other Lists</h2>
+      <ul>
+        {wishlists.map((wishlist) => <ExternalWishlist list={wishlist} />)}
+      </ul>
+      <h2>Things I Want</h2>
+      <ul>
+        {things.map((thing) => <Thing thing={thing} />)}
+      </ul>
+    </div>
+  );
 }
