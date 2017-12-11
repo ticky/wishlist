@@ -1,12 +1,10 @@
 import { h } from 'preact'; /** @jsx h */
 import { Router } from 'preact-router';
-import Home from '../components/pages/home.js';
-// import Home2 from '../components/pages/home.mdx';
+import Home from '../pages/home.mdx';
 
 const Main = () => (
   <Router>
     <Home path="/" />
-    // <Home2 path="/2" />
   </Router>
 );
 

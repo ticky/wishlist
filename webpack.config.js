@@ -9,36 +9,38 @@ module.exports = {
   },
   
   resolve: {
-    extensions: ['.js', '.jsx']
+    extensions: ['.js']
   },
   
   module: {
     rules: [
       {
         test: /\.js?$/,
-        loaders: [ 'babel-loader' ],
-        exclude: [ /node_modules/ ]
+        exclude: [ /node_modules/ ],
+        loaders: [ 'babel-loader' ]
       },
       {
         test: /\.ya?ml$/,
-        loaders: [ 'json-loader', 'yaml-loader' ],
-        exclude: [ /node_modules/ ]
+        exclude: [ /node_modules/ ],
+        loaders: [ 'json-loader', 'yaml-loader' ]
       },
       {
         test: /\.mdx$/,
-        loader: [ 'babel-loader', 'markdown-component-loader' ],
-        exclude: [ /node_modules/ ]
+        exclude: [ /node_modules/ ],
+        use: [
+          { loader: 'babel-loader' },
+          { loader:'markdown-component-loader' }
+        ]
       }
     ],
   },
+
+  devtool: 'source-map',
   
   devServer: {
     inline: true,
     host: '0.0.0.0',
     port: 8080,
     contentBase: path.join(__dirname, 'public')
-  },
-  
-  plugins: [
-  ]
+  }
 }

@@ -1,14 +1,15 @@
 ---
 imports:
   '{ h }': preact
-  '{ wishlists, things }': ../../wishlist.yml
-  ExternalWishlist: ../ExternalWishlist
-  Thing: ../Thing
+  '{ wishlists, things }': ../wishlist.yml
+  ExternalWishlist: ../components/ExternalWishlist
+  Thing: ../components/Thing
 ---
 # Jessica’s meta-wishlist
 A list of things Jessica would like (for Christmas, birthdays, etc.), made because I keep having trouble coming up with an answer to the question of what I’d like!
 
-## Other Lists
+## Elsewhere
+Other places on the internet where I have wishlists.
 <ul>
   {{wishlists.map((wishlist) => <ExternalWishlist list={wishlist} />)}}
 </ul>
