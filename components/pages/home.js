@@ -3,8 +3,9 @@ import { items, wishlists } from '../../wishlist.yml';
 
 const Wishitem = ({item}) => (
   <li>
-    <a href={item.link}>{item.name}</a><br/>
-    {JSON.stringify(item, null, '  ')}
+    <a href={item.link}>
+      {item.name}
+    </a>
   </li>
 );
 
