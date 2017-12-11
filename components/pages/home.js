@@ -8,6 +8,7 @@ export default () => {
   return (
     <div>
       <h1>Jessica’s meta-wishlist</h1>
+      <p>A list of things Jessica would like (for Christmas, birthdays, etc.), made because I keep having trouble coming up with an answer to the question of what I’d like!</p>
       <h2>Other Lists</h2>
       <ul>
         {wishlists.map((wishlist) => <ExternalWishlist list={wishlist} />)}

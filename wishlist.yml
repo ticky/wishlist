@@ -2,6 +2,10 @@
 wishlists:
   - name: Music on Discogs
     link: "https://www.discogs.com/wantlist?user=ticky_"
+  
+  - name: PC games on GOG
+    link: "https://www.gog.com/u/ticky/wishlist"
+
   - name: PC games on Steam
     link: "https://steamcommunity.com/id/ticky/wishlist/"
 
@@ -14,7 +18,9 @@ things:
 
   - name: Gran Turismo 2 Soundtrack
     link: "https://www.ebay.com.au/itm/GAME-SOUNDTRACK-CD-music-Gran-turismo-GRAN-TURISMO-2/272176131509"
-    
+
+  - name: 
+
   - name: Vacuum Fluorescent Display VU meter kit
     link: "https://www.ebay.com.au/itm/VFD-bargraph-VU-meter-ILT6-30M-Vacuum-luminescent-indicator-DISPLAY-KIT/182368697351"
     notes: |

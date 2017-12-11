@@ -11,15 +11,16 @@
     "babel-loader": "latest",
     "babel-preset-es2015": "latest",
     "babel-preset-react": "latest",
-    "webpack": "latest",
-    "webpack-dev-server": "latest",
+    "webpack": "^2.3.2",
+    "webpack-dev-server": "^2.3.2",
     "babel-plugin-transform-react-jsx": "latest"
   },
   "dependencies": {
     "preact": "^8.2.6",
     "preact-router": "^2.6.0",
     "json-loader": "^0.5.7",
-    "yaml-loader": "^0.5.0"
+    "yaml-loader": "^0.5.0",
+    "markdown-component-loader": "^0.8.0"
   },
   "engines": {
     "node": "6.9.x"

@@ -23,6 +23,11 @@ module.exports = {
         test: /\.ya?ml$/,
         loaders: [ 'json-loader', 'yaml-loader' ],
         exclude: [ /node_modules/ ]
+      },
+      {
+        test: /\.mdx$/,
+        loader: [ 'babel-loader', 'markdown-component-loader' ],
+        exclude: [ /node_modules/ ]
       }
     ],
   },
