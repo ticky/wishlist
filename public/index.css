@@ -29,6 +29,10 @@ body > div {
   padding: .5em 1em 4em 1em
 }
 
+li {
+  margin: .75em 0;
+}
+
 a:link, a:visited {
   color: #893ff4;
   text-decoration: none;
