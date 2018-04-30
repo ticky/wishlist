@@ -11,9 +11,15 @@ wishlists:
 
 things:
   - name: Banana Pi Zero
-    link: "https://www.aliexpress.com/store/product/Allwinner-H2-Open-source-hardware-platform-BPI-M2-zero-all-ineter-face-same-as-Raspberry-pi/302756_32839074880.html"
+    link:
+      - "https://sinovoip.en.alibaba.com/product/60740161336-805768482/Mini_single_board_computer_with_Wifi_BT_banana_pi_m2_zero.html"
+      - "https://www.aliexpress.com/store/product/Allwinner-H2-Open-source-hardware-platform-BPI-M2-zero-all-ineter-face-same-as-Raspberry-pi/302756_32839074880.html"
+      - "https://item.taobao.com/item.htm?id=560842926692"
     notes: |
-      
+      This is a tiny, single-board computer which is similar to the Raspberry Pi Zero you may have heard of,
+      but includes a few extra features which are intriguing for some projects I've been considering putting together.
+      Unfortunately, as a bit of a niche Chinese product, it's more or less only available from distributors in China proper.
+
   - name: Bayonetta ∞CLIMAX EDITION 「ベヨネッタ ∞CLIMAX EDITION」
     link:
       - "https://solarisjapan.com/products/bayonetta-nonstop-climax-edition"
