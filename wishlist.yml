@@ -10,15 +10,26 @@ wishlists:
     link: "https://steamcommunity.com/id/ticky/wishlist/"
 
 things:
-  - name: Banana Pi Zero
+  - name: Banana Pi M2 Zero
     link:
       - "https://sinovoip.en.alibaba.com/product/60740161336-805768482/Mini_single_board_computer_with_Wifi_BT_banana_pi_m2_zero.html"
       - "https://www.aliexpress.com/store/product/Allwinner-H2-Open-source-hardware-platform-BPI-M2-zero-all-ineter-face-same-as-Raspberry-pi/302756_32839074880.html"
       - "https://item.taobao.com/item.htm?id=560842926692"
     notes: |
-      This is a tiny, single-board computer which is similar to the Raspberry Pi Zero you may have heard of,
-      but includes a few extra features which are intriguing for some projects I've been considering putting together.
-      Unfortunately, as a bit of a niche Chinese product, it's more or less only available from distributors in China proper.
+      This is a tiny computer which is similar to the Raspberry Pi Zero, which you are more likely to have heard of.
+      It includes a few extra features which are intriguing for some projects I've been considering putting together.
+      Unfortunately, as a bit of a niche Chinese product, it's more or less only available from distributors in China proper, which can make shipping a pain.
+
+  - name: EverDrive GB X7 or X5
+    link:
+      - "https://krikzz.com/store/home/46-everdrive-gb.html"
+      - "https://krikzz.com/store/home/47-everdrive-gb.html"
+      - "https://www.retromodding.com/collections/gameboy/products/krikzzs-everdrive-gb-x7"
+      - "https://www.retromodding.com/collections/gameboy/products/krikzzs-everdrive-gb-x5?variant=1147358380058"
+    notes: |
+      A flash cartridge for the original GameBoy consoles.
+      This will allow me to experiment with games I didn't get to play much, and to fiddle with homebrew software.
+      Please make sure if you find it that you avoid getting the Revision A, as this has issues with the GameBoy Pocket!
 
   - name: Bayonetta ∞CLIMAX EDITION 「ベヨネッタ ∞CLIMAX EDITION」
     link:
