@@ -20,6 +20,12 @@ things:
       It includes a few extra features which are intriguing for some projects I've been considering putting together.
       Unfortunately, as a bit of a niche Chinese product, it's more or less only available from distributors in China proper, which can make shipping a pain.
 
+  - name: KORAD KD3005P Linear DC Power Supply
+    link: "https://www.amazon.ca/gp/product/B018V3CQO0/"
+    notes: |
+      A linear DC power supply would be real useful for me with my electronics projects. 30V is overkill but it at least gives plenty of wiggle room.
+      This model seems to be pretty decent from reviews I've looked at, and as a bonus it's programmable over USB!
+
   - name: EverDrive GB X7 or X5
     link:
       - "https://krikzz.com/store/home/46-everdrive-gb.html"
