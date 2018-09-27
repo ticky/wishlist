@@ -3,10 +3,13 @@ wishlists:
   - name: Music on Discogs
     link: "https://www.discogs.com/wantlist?user=ticky_"
 
-  - name: PC games on GOG
+  - name: Games on GOG
     link: "https://www.gog.com/u/ticky/wishlist"
+    
+  - name: Games on itch.io
+    link: "https://itch.io/c/136784/wishlist"
 
-  - name: PC games on Steam
+  - name: Games on Steam
     link: "https://steamcommunity.com/id/ticky/wishlist/"
 
 things:
@@ -50,11 +53,6 @@ things:
       This got expensive fast, but this Japanese-exclusive limited release (which includes  
       English menus & voices) is the only way to get a physical copy of these games on Switch.  
       The bonus stuff it comes with is really cool, too! Probably a bit of a stretch, though.
-
-  - name: Gran Turismo 2 Soundtrack
-    link: "https://www.ebay.com.au/itm/GAME-SOUNDTRACK-CD-music-Gran-turismo-GRAN-TURISMO-2/272176131509"
-    notes: |
-      Bootlegs are pretty common, but the original ones are out there!
 
   - name: PlayStation 2 Slim HDD connection kit
     link: "http://www.maxdiypower.com/index.php?main_page=product_info&products_id=80"
