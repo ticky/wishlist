@@ -20,6 +20,11 @@ things:
     notes: |
       A Bluetooth Low Energy-based logging multimeter. This can measure circuits over time on its own, or in concert with a smartphone.
       This would be super cool to have!
+  
+  - name: NanoHub
+    link: "https://www.tindie.com/products/mux/nanohub-tiny-usb-hub-for-hacking-projects/"
+    notes: |
+      A USB hub on a tiny circuit board. I've got some ideas for projects incorporating these!
 
   - name: Banana Pi M2 Zero
     link:
