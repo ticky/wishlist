@@ -5,7 +5,7 @@ wishlists:
 
   - name: Games on GOG
     link: "https://www.gog.com/u/ticky/wishlist"
-    
+
   - name: Games on itch.io
     link: "https://itch.io/c/136784/wishlist"
 
@@ -15,9 +15,19 @@ wishlists:
 things:
   - name: SliceCharge Pro Wireless Charging Mat for iPhone & Apple Watch
     link: "https://www.indiegogo.com/projects/slicecharge-the-1st-6-coils-wireless-charging-mat#/"
-  
+
   - name: Genki Bluetooth Audio adapter for Nintendo Switch
     link: "https://www.indiegogo.com/projects/genki-bluetooth-audio-for-the-nintendo-switch--3"
+
+  - name: BitBoy
+    link: "https://gameboyphoto.bigcartel.com/product/bitboy"
+    notes: |
+      A Game Boy Printer emulator, which outputs printed pictures to an SD Card.
+
+  - name: GBxCart RW
+    link: "https://www.tindie.com/products/insidegadgets/gbxcart-rw-gameboygbcgba-cart-readerwriter/"
+    notes: |
+      USB reader/writer for Game Boy cartridges. Available with forward-thinking USB-C port!
 
   - name: Votch Piñatex 20mm Watch Band, black with silver buckle
     link: "https://www.votch.co.uk/collections/pinatex-collection-20mm/products/pinatex-black-with-brushed-silver-buckle-20mm"
@@ -40,7 +50,7 @@ things:
     notes: |
       A Bluetooth Low Energy-based logging multimeter. This can measure circuits over time on its own, or in concert with a smartphone.
       This would be super cool to have!
-  
+
   - name: NanoHub
     link: "https://www.tindie.com/products/mux/nanohub-tiny-usb-hub-for-hacking-projects/"
     notes: |
