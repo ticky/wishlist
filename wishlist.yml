@@ -31,7 +31,8 @@ things:
     
   - name: 8BitDo Wireless USB Adapter
     link: "https://www.8bitdo.com/wireless-usb-adapter/"
-    note
+    notes: |
+      Adapter to allow connecting many types of wireless controllers to USB game consoles.
 
   - name: Mooshimeter
     link:
