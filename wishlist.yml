@@ -15,7 +15,8 @@ wishlists:
 things:
   - name: Peak Design Cuff
     link: "https://www.peakdesign.com/collections/straps/products/cuff?variant=9783844110380"
-    notes: Nicer camera strap than the one my Olympus came with.
+    notes: |
+      A much nicer, compact camera strap than the one my Olympus came with.
 
   - name: Genki Bluetooth Audio adapter for Nintendo Switch
     link: "https://www.indiegogo.com/projects/genki-bluetooth-audio-for-the-nintendo-switch--3"
@@ -27,6 +28,10 @@ things:
 
   - name: Elemental Cases Raspberry Apple Watch Band
     link: "https://www.elementalcases.com/collections/applewatch/products/raspberry-vegan-leather-apple-watch-band-38mm"
+    
+  - name: 8BitDo Wireless USB Adapter
+    link: "https://www.8bitdo.com/wireless-usb-adapter/"
+    note
 
   - name: Mooshimeter
     link:
