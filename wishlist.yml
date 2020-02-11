@@ -20,6 +20,13 @@ things:
 
   - name: Genki Bluetooth Audio adapter for Nintendo Switch
     link: "https://www.indiegogo.com/projects/genki-bluetooth-audio-for-the-nintendo-switch--3"
+  
+  - name: Hakko FA-400 Smoke Absorber
+    link:
+      - "https://www.hakko.com/english/products/hakko_fa400.html"
+      - "https://www.digikey.ca/product-detail/en/FA400-04/1691-1039-ND/6228795/?itemSeq=314594922"
+    notes: |
+      A smoke absorber to help keep the air clean when soldering.
 
   - name: BitBoy
     link: "https://gameboyphoto.bigcartel.com/product/bitboy"
