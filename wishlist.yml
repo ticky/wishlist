@@ -13,6 +13,11 @@ wishlists:
     link: "https://steamcommunity.com/id/ticky/wishlist/"
 
 things:
+  - name: Joy-Con Set, Neon Purple/Neon Orange
+    link: https://store.nintendo.ca/joy-con-set-l-r.html
+    notes: |
+      It would be lovely to have spare controllers for our Nintendo Switch! These ones are fantastic colours, too.
+      
   - name: OWC Mercury On-The-Go Pro 2.5 inch Hard Drive Enclosure with FireWire and USB 3.0
     link:
       - "https://eshop.macsales.com/item/OWC/MSTG800U3K/"
@@ -21,30 +26,11 @@ things:
     notes: |
       A portable hard drive enclosure which would suit both modern and our older machines with high speeds. I'd aim to fill it with a small (~120GB) SDD, and it comes either with one or with no drive. I'd be happy either way!
 
-  - name: Joy-Con Set, Neon Purple/Neon Orange
-    link: https://store.nintendo.ca/joy-con-set-l-r.html
-    notes: |
-      It would be lovely to have spare controllers for our Nintendo Switch! These ones are fantastic colours, too.
-
-  - name: DragonCity New-Bios for Dreamcast (Green), and BIOS Chip (Freezone)
-    link:
-      - "https://boutique-dragoncity.myshopify.com/products/pcb-dreamcast-new-bios?variant=34472072020117"
-      - "https://boutique-dragoncity.myshopify.com/products/bios-dreamshell?variant=17165623853102"
-    notes: |
-      Two complementary parts for my Dreamcast (one in each link!), which allow adding a second BIOS chip, which allows it to boot discs from any region very easily. The "New-Bios" board also allows keeping both BIOS chips installed, and switching between the two easily.
-
   - name: Brook Wingman Converter SD for Sega Saturn and Dreamcast
     link:
       - "https://www.brookaccessory.com/detail/62472958/"
       - "https://arcadeshock.com/collections/frontpage/products/brook-wingman-convert-sd-to-sega-dreamcast-and-saturn-pre-order"
       - "https://focusattack.com/brook-wingman-sd-multi-console-to-sega-dreamcast-saturn-converter/"
-  
-  - name: Hakko FA-400 Smoke Absorber
-    link:
-      - "https://www.hakko.com/english/products/hakko_fa400.html"
-      - "https://www.digikey.ca/product-detail/en/FA400-04/1691-1039-ND/6228795/?itemSeq=314594922"
-    notes: |
-      A smoke absorber to help keep the air clean when soldering.
 
   - name: Peak Design Cuff
     link: "https://www.peakdesign.com/collections/straps/products/cuff?variant=9783844110380"
@@ -53,11 +39,13 @@ things:
 
   - name: Genki Bluetooth Audio adapter for Nintendo Switch
     link: "https://www.indiegogo.com/projects/genki-bluetooth-audio-for-the-nintendo-switch--3"
-
-  - name: Behar Bros. Dreamcast Power Supply
-    link: "https://www.beharbros.com/product-page/dreamcast-power-supply"
+  
+  - name: Hakko FA-400 Smoke Absorber
+    link:
+      - "https://www.hakko.com/english/products/hakko_fa400.html"
+      - "https://www.digikey.ca/product-detail/en/FA400-04/1691-1039-ND/6228795/?itemSeq=314594922"
     notes: |
-      A high-quality replacement power supply for the Dreamcast, which would allow me to replace the existing, single-voltage power supply with something more modern and reliable.
+      A smoke absorber to help keep the air clean when soldering.
 
   - name: BitBoy
     link: "https://gameboyphoto.bigcartel.com/product/bitboy"
@@ -66,7 +54,7 @@ things:
 
   - name: Elemental Cases Raspberry Apple Watch Band
     link: "https://www.elementalcases.com/collections/applewatch/products/raspberry-vegan-leather-apple-watch-band-38mm"
-
+    
   - name: 8BitDo Wireless USB Adapter
     link: "https://www.8bitdo.com/wireless-usb-adapter/"
     notes: |
