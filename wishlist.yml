@@ -13,14 +13,6 @@ wishlists:
     link: "https://steamcommunity.com/id/ticky/wishlist/"
 
 things:
-  - name: OWC Mercury On-The-Go Pro 2.5 inch Hard Drive Enclosure with FireWire and USB 3.0
-    link:
-      - "https://eshop.macsales.com/item/OWC/MSTG800U3K/"
-      - "https://www.amazon.ca/Owc-Mercury-Case-Firewire-800/dp/B00AR9ZYYQ"
-      - "https://www.bhphotovideo.com/c/product/889816-REG/OWC_Other_World_Computing_owcmstg800u3k_Mercury_On_the_Go_Pro_Triple.html"
-    notes: |
-      A portable hard drive enclosure which would suit both modern and our older machines with high speeds. I'd aim to fill it with a small (~120GB) SDD, and it comes either with one or with no drive. I'd be happy either way!
-
   - name: Joy-Con Set, Neon Purple/Neon Orange
     link: https://store.nintendo.ca/joy-con-set-l-r.html
     notes: |
@@ -58,11 +50,6 @@ things:
     link: "https://www.beharbros.com/product-page/dreamcast-power-supply"
     notes: |
       A high-quality replacement power supply for the Dreamcast, which would allow me to replace the existing, single-voltage power supply with something more modern and reliable.
-
-  - name: BitBoy
-    link: "https://gameboyphoto.bigcartel.com/product/bitboy"
-    notes: |
-      A Game Boy Printer emulator, which outputs printed pictures to an SD Card.
 
   - name: Elemental Cases Raspberry Apple Watch Band
     link: "https://www.elementalcases.com/collections/applewatch/products/raspberry-vegan-leather-apple-watch-band-38mm"
@@ -111,8 +98,3 @@ things:
     link: "http://www.maxdiypower.com/index.php?main_page=product_info&products_id=80"
     notes: |
       A mod project for the slim PS2 I'd like to attempt someday. Cables to allow connecting a hard drive to the slim PS2.
-
-  - name: Vacuum Fluorescent Display VU meter kit
-    link: "https://www.ebay.com.au/itm/VFD-bargraph-VU-meter-ILT6-30M-Vacuum-luminescent-indicator-DISPLAY-KIT/182368697351"
-    notes: |
-      Really cool! A vacuum-fluorescent display salvaged from a Soviet cassette deck, built into a neat little project kit.
