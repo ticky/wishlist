@@ -13,18 +13,6 @@ wishlists:
     link: "https://steamcommunity.com/id/ticky/wishlist/"
 
 things:
-  - name: Joy-Con Set, Neon Purple/Neon Orange
-    link: https://store.nintendo.ca/joy-con-set-l-r.html
-    notes: |
-      It would be lovely to have spare controllers for our Nintendo Switch! These ones are fantastic colours, too.
-
-  - name: DragonCity New-Bios for Dreamcast (Green), and BIOS Chip (Freezone)
-    link:
-      - "https://boutique-dragoncity.myshopify.com/products/pcb-dreamcast-new-bios?variant=34472072020117"
-      - "https://boutique-dragoncity.myshopify.com/products/bios-dreamshell?variant=17165623853102"
-    notes: |
-      Two complementary parts for my Dreamcast (one in each link!), which allow adding a second BIOS chip, which allows it to boot discs from any region very easily. The "New-Bios" board also allows keeping both BIOS chips installed, and switching between the two easily.
-
   - name: Cat Soldering Kit
     link: http://www.elkei.com.au/shop/kits/pre-sale-cat-soldering-kit/
     notes: |
@@ -52,7 +40,7 @@ things:
     link: "https://www.indiegogo.com/projects/genki-bluetooth-audio-for-the-nintendo-switch--3"
 
   - name: Behar Bros. Dreamcast Power Supply
-    link: "https://www.beharbros.com/product-page/dreamcast-power-supply"
+    link: "https://www.beharbros.com/dreamcastpower"
     notes: |
       A high-quality replacement power supply for the Dreamcast, which would allow me to replace the existing, single-voltage power supply with something more modern and reliable.
 
