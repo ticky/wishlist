@@ -21,7 +21,7 @@ things:
       - "http://www.elkei.com.au/shop/kits/pre-sale-cat-soldering-kit/"
       - "https://www.adafruit.com/product/5237"
     notes: |
-      A very cute little soldering kit I'd love to have a go at, and a pretty little accessory to keep somewhere once it's finished! Sadly only ships to Australia and New Zealand.
+      A very cute little soldering kit I'd love to have a go at, and a pretty little accessory to keep somewhere once it's finished!
 
   - name: Fanatec ClubSport Shifter SQ V1.5
     link:
@@ -29,11 +29,6 @@ things:
       - "https://www.simulation1.ca/products/clubsport-shifter-sq-v-1-5-us/"
     notes: |
       The manual gear shifter which goes with the racing wheel setup I've begun to assemble. This would make the whole thing more realistic.
-
-  - name: Bobovr C2 Carrying Case
-    link:
-      - "http://www.bobovr.com/support/c2/"
-      - "https://www.amazon.ca/BOBOVR-C2-Carrying-Oculus-Compatible/dp/B09FJJPY99/"
 
   - name: Hakko FA-400 Smoke Absorber
     link:
