@@ -4,6 +4,6 @@ A list of things Jessica would like (for Christmas, birthdays, etc.), made becau
 
 ## How
 
-Preact, webpack and markdown-component-loader, reading from a YAML file. Because this is what I do, I guess.
+Jekyll and GitHub Pages, reading from a YAML file.
 
-`wishlist.yml` is where all the info lives.
+`_data/wishlist.yml` is where all the info lives.
