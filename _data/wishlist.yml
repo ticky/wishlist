@@ -16,6 +16,16 @@ wishlists:
     link: "https://steamcommunity.com/id/ticky/wishlist/"
 
 things:
+  - name: 8Bitdo Mobile Gaming Clip for Xbox Controllers
+    link:
+      - "https://www.8bitdo.com/mobile-gaming-clip-for-xbox-controllers/"
+      - "https://www.amazon.ca/8Bitdo-Mobile-Controllers-Officially-Licensed/dp/B08DJ2KYG9"
+
+  - name: 8Bitdo Controller Travel Case
+    link: "https://www.amazon.ca/8Bitdo-Classic-Controller-Travel-Controllers/dp/B08XYNQCH6"
+    notes: |
+      This case would fit my Xbox One controller, which I use and travel with pretty regularly.
+
   - name: Cat Soldering Kit
     link: 
       - "http://www.elkei.com.au/shop/kits/pre-sale-cat-soldering-kit/"
@@ -23,10 +33,10 @@ things:
     notes: |
       A very cute little soldering kit I'd love to have a go at, and a pretty little accessory to keep somewhere once it's finished!
 
-  - name: 8Bitdo Mobile Gaming Clip for Xbox Controllers
-    link:
-      - "https://www.8bitdo.com/mobile-gaming-clip-for-xbox-controllers/"
-      - "https://www.amazon.ca/8Bitdo-Mobile-Controllers-Officially-Licensed/dp/B08DJ2KYG9"
+  - name: Peak Design Cuff
+    link: "https://www.peakdesign.com/collections/straps/products/cuff?variant=9783844110380"
+    notes: |
+      A much nicer, compact camera strap than the one my Olympus came with.
 
   - name: Fanatec ClubSport Shifter SQ V1.5
     link:
@@ -35,17 +45,20 @@ things:
     notes: |
       The manual gear shifter which goes with the racing wheel setup I've begun to assemble. This would make the whole thing more realistic.
 
+  - name: Fanatec ClubSport Handbrake V1.5
+    link:
+      - "https://fanatec.com/us-en/shifters-others/clubsport-handbrake-v1.5"
+      - "https://www.simulation1.ca/?s=Fanatec+handbrake&post_type=product"
+    notes: |
+      Handbrake which also goes with the racing wheel setup I've begun to assemble.
+      I think the shifter is more important, but I am more and more wishing I had a handbrake lever to hand!
+
   - name: Hakko FA-400 Smoke Absorber
     link:
       - "https://www.hakko.com/english/products/hakko_fa400.html"
       - "https://www.digikey.ca/product-detail/en/FA400-04/1691-1039-ND/6228795/?itemSeq=314594922"
     notes: |
       A smoke absorber to help keep the air clean when soldering.
-
-  - name: Peak Design Cuff
-    link: "https://www.peakdesign.com/collections/straps/products/cuff?variant=9783844110380"
-    notes: |
-      A much nicer, compact camera strap than the one my Olympus came with.
 
   - name: Behar Bros. Dreamcast Power Supply
     link: "https://www.beharbros.com/dreamcastpower"
