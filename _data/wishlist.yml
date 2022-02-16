@@ -52,6 +52,12 @@ things:
     link: "https://www.peakdesign.com/collections/straps/products/cuff?variant=9783844110380"
     notes: |
       A much nicer, compact camera strap than the one my Olympus came with.
+  
+  - name: TV-B-Gone Kit
+    link:
+      - "https://www.adafruit.com/product/73"
+      - "https://www.mouser.ca/ProductDetail/Adafruit/73?qs=GURawfaeGuApUVdoRfhzqQ%3D%3D"
+      - "https://elmwoodelectronics.ca/products/adafruit-tv-b-gone-kit-universal-v1-2"
 
   - name: Belkin USB-C Mini Hub
     link:
