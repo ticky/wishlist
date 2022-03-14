@@ -59,7 +59,7 @@ things:
     notes: |
       Another portable PlayStation? Say it isn't so! Yep, there's another that I can add to my collection, and, in fact, it could replace some others in my collection.
 
-- name: TV-B-Gone Kit
+  - name: TV-B-Gone Kit
     link:
       - "https://www.adafruit.com/product/73"
       - "https://www.mouser.ca/ProductDetail/Adafruit/73?qs=GURawfaeGuApUVdoRfhzqQ%3D%3D"
