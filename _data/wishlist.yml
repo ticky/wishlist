@@ -16,11 +16,6 @@ wishlists:
     link: "https://steamcommunity.com/id/ticky/wishlist/"
 
 things:
-  - name: 8Bitdo Mobile Gaming Clip for Xbox Controllers
-    link:
-      - "https://www.8bitdo.com/mobile-gaming-clip-for-xbox-controllers/"
-      - "https://www.amazon.ca/8Bitdo-Mobile-Controllers-Officially-Licensed/dp/B08DJ2KYG9"
-
   - name: 8Bitdo Controller Travel Case
     link: "https://www.amazon.ca/8Bitdo-Classic-Controller-Travel-Controllers/dp/B08XYNQCH6"
     notes: |
@@ -64,20 +59,12 @@ things:
       - "https://www.dell.com/en-ca/work/shop/belkin-inc-usb-c-4port-mini-hub/apd/a9602917/pc-accessories"
       - "https://www.belkin.com/us/docks-hubs/hubs/usb-c-4-port-mini-hub-usb-type-c/p/p-f4u090/"
 
-  - name: Fanatec ClubSport Shifter SQ V1.5
-    link:
-      - "https://fanatec.com/us-en/shifters-others/clubsport-shifter-sq-v-1.5"
-      - "https://www.simulation1.ca/products/clubsport-shifter-sq-v-1-5-us/"
-    notes: |
-      The manual gear shifter which goes with the racing wheel setup I've begun to assemble. This would make the whole thing more realistic.
-
   - name: Fanatec ClubSport Handbrake V1.5
     link:
       - "https://fanatec.com/us-en/shifters-others/clubsport-handbrake-v1.5"
       - "https://www.simulation1.ca/?s=Fanatec+handbrake&post_type=product"
     notes: |
-      Handbrake which also goes with the racing wheel setup I've begun to assemble.
-      I think the shifter is more important, but I am more and more wishing I had a handbrake lever to hand!
+      Handbrake which goes with the racing wheel setup I've begun to assemble. This would make the whole thing more realistic.
 
   - name: Hakko FA-400 Smoke Absorber
     link:
