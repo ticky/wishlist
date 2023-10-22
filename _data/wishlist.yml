@@ -6,21 +6,16 @@ wishlists:
   - name: Music on Bandcamp
     link: "https://bandcamp.com/ticky/wishlist"
 
-  - name: Games on GOG
-    link: "https://www.gog.com/u/ticky/wishlist"
+  - name: Games on Steam
+    link: "https://steamcommunity.com/id/ticky/wishlist/"
 
   - name: Games on itch.io
     link: "https://itch.io/c/136784/wishlist"
 
-  - name: Games on Steam
-    link: "https://steamcommunity.com/id/ticky/wishlist/"
+  - name: Games on GOG
+    link: "https://www.gog.com/u/ticky/wishlist"
 
 things:
-  - name: 8Bitdo Controller Travel Case
-    link: "https://www.amazon.ca/8Bitdo-Classic-Controller-Travel-Controllers/dp/B08XYNQCH6"
-    notes: |
-      This case would fit my Xbox One controller, which I use and travel with pretty regularly.
-
   - name: Swatch .beat “Site”, in white (model SQW100)
     link: "https://www.ebay.ca/sch/i.html?_from=R40&_nkw=Swatch+SQW100&_sacat=0&LH_TitleDesc=0&rt=nc&LH_PrefLoc=2"
     notes: |
@@ -28,14 +23,61 @@ things:
       This watch has a dedicated portion of its face for the decimal time readout, and the milky white with a dash of colour looks great.
       Might be hard to track down in good condition, but there seems to regularly be a handful on eBay
       (I'd prefer one without the watch body too yellowed compared to the strap, if possible!)
-  
+
+  - name: Tangara portable music player
+    link: "https://www.crowdsupply.com/cool-tech-zone/tangara"
+    notes: |
+      This is a neat little hardware project by a friend of a friend that I would love to support once preorders become available.
+
+  - name: 8Bitdo Controller Travel Case
+    link:
+      - "https://videogamesplus.ca/products/8bitdo-classic-controller-travel-case-for-sn30pro-pro-2-controllers"
+      - "https://shop.8bitdo.com/products/8bitdo-classic-controller-travel-case-for-sn30-pro-pro-2-controllers-switch-pro-ps5-ps4-xbox-one-controller-and-more"
+      - "https://www.amazon.ca/8Bitdo-Classic-Controller-Travel-Controllers/dp/B08XYNQCH6"
+    notes: |
+      This case would fit my Xbox One controller, which I use and travel with pretty regularly.
+
+  - name: Guitar Hero Wii Adapter (Various Models)
+    link:
+      - "https://www.ebay.ca/itm/145358017096"
+      - "https://www.etsy.com/ca/listing/1536358024/v3-wii-guitar-adapter-with-tilt-for"
+      - "https://www.etsy.com/ca/listing/1349715708/black-wiidow-wii-guitar-adapter-with"
+    notes: |
+      These convert a Wii Guitar Hero guitar like I have into a wired universal guitar controller.
+      There are a few models available but they're all broadly similar.
+
+  - name: 8BitDo Wireless USB Adapter 2
+    link:
+      - "https://videogamesplus.ca/collections/vendors/products/8bitdo-usb-wireless-adapter-2-black"
+      - "https://videogamesplus.ca/collections/vendors/products/8bitdo-wireless-usb-adapter-2-for-switch-windows-mac-raspberry-pi-compatible-with-xbox-series-x-s-controller-xbox-one-bluetooth-switch-pro-and-ps5-controller-brown"
+      - "https://shop.8bitdo.com/products/8bitdo-wireless-usb-adapter-2-for-switch-windows-mac-raspberry-pi-compatible-with-xbox-series-x-s-controller-xbox-one-bluetooth-controller-switch-pro-and-ps5-controller"
+      - "https://www.amazon.ca/8Bitdo-Raspberry-Compatible-Controller-Bluetooth/dp/B09M8CVMYF"
+    notes: |
+      Adapter to allow connecting many types of wireless controllers to USB game consoles.
+      The "2" is a newer version with broader support and more customisation options.
+
+  - name: Libbey Inverness Double Old Fashioned Glasses
+    link:
+      - "https://nellacutlery.ca/products/libbey-inverness-12-25-oz-double-old-fashioned-glass-24-case-15482"
+      - "https://www.webstaurantstore.com/libbey-15482-inverness-12-5-oz-double-rocks-old-fashioned-glass-case/55115482.html"
+    notes: |
+      These are my favourite whisky glasses, and I used to have a set but I lost them in the move.
+      I'd love to have some again. So far I've only found them in foodservice quantities but I got lucky once so maybe there's a way…
+
   - name: Onkyo K-505FX Cassette Deck
     link:
       - "https://buyee.jp/item/search/query/onkyo%20505fx/"
       - "https://www.ebay.ca/sch/i.html?_nkw=Onkyo+505FX"
     notes: |
-      A compact cassette deck which would integrate with my hi-fi system. As a bonus, it's a highly capable model from the turn of the century, and so capable of playing almost any cassette I might want.
-  
+      A compact cassette deck which would integrate with my hi-fi system.
+      As a bonus, it's a highly capable model from the turn of the century, and so capable of playing almost any cassette I might want.
+
+  - name: "MemCard PRO2"
+    link: "https://8bitmods.com/memcard-pro2-for-ps2-and-ps1-smoke-black/"
+    notes: |
+      A modern, high-capacity and very flexible and convenient memory card for the venerable PlayStation and PlayStation 2.
+      My current solution to space issues is to copy saves to my PS2's hard drive, but this is fragile and easy to mess up.
+
   - name: PS1 & PS2 UnoRetro Adapter
     link: "https://www.willsconsolemodifications.co.uk/index.php?route=product/product&path=59_67&product_id=52"
     notes: |
@@ -43,9 +85,7 @@ things:
       Not in stock at the time of writing, but someday…
 
   - name: Cat Soldering Kit
-    link: 
-      - "http://www.elkei.com.au/shop/kits/pre-sale-cat-soldering-kit/"
-      - "https://www.adafruit.com/product/5237"
+    link: "https://www.adafruit.com/product/5237"
     notes: |
       A very cute little soldering kit I'd love to have a go at, and a pretty little accessory to keep somewhere once it's finished!
 
@@ -53,23 +93,21 @@ things:
     link: "https://www.peakdesign.com/collections/straps/products/cuff?variant=9783844110380"
     notes: |
       A much nicer, compact camera strap than the one my Olympus came with.
-  
+
   - name: TV-B-Gone Kit
     link:
       - "https://www.adafruit.com/product/73"
       - "https://www.mouser.ca/ProductDetail/Adafruit/73?qs=GURawfaeGuApUVdoRfhzqQ%3D%3D"
-      - "https://elmwoodelectronics.ca/products/adafruit-tv-b-gone-kit-universal-v1-2"
 
   - name: Belkin USB-C Mini Hub
     link:
       - "https://www.cdw.ca/product/belkin-usb-c-4-port-mini-hub-hub-4-ports/4706842"
-      - "https://www.dell.com/en-ca/work/shop/belkin-inc-usb-c-4port-mini-hub/apd/a9602917/pc-accessories"
       - "https://www.belkin.com/us/docks-hubs/hubs/usb-c-4-port-mini-hub-usb-type-c/p/p-f4u090/"
 
   - name: Fanatec ClubSport Handbrake V1.5
     link:
       - "https://fanatec.com/us-en/shifters-others/clubsport-handbrake-v1.5"
-      - "https://www.simulation1.ca/?s=Fanatec+handbrake&post_type=product"
+      - "https://www.simulation1.ca/product/fanatec-clubsport-handbrake-v1-5/"
     notes: |
       Handbrake which goes with the racing wheel setup I've begun to assemble. This would make the whole thing more realistic.
 
@@ -80,44 +118,10 @@ things:
     notes: |
       A smoke absorber to help keep the air clean when soldering.
 
-  - name: Behar Bros. Dreamcast Power Supply
-    link: "https://www.beharbros.com/dreamcastpower"
-    notes: |
-      A high-quality replacement power supply for the Dreamcast, which would allow me to replace the existing, single-voltage power supply with something more modern and reliable.
-
-  - name: Elemental Cases Raspberry Apple Watch Band
-    link: "https://www.elementalcases.com/collections/applewatch/products/raspberry-vegan-leather-apple-watch-band-38mm"
-
-  - name: 8BitDo Wireless USB Adapter
-    link: "https://www.8bitdo.com/wireless-usb-adapter/"
-    notes: |
-      Adapter to allow connecting many types of wireless controllers to USB game consoles.
-
-  - name: Mooshimeter
-    link:
-      - "https://moosh.im/mooshimeter/"
-      - "https://www.robotshop.com/ca/en/mooshimeter-smartphone-multimeter--datalogger.html"
-      - "https://www.amazon.ca/Mooshim-DMM-BLE-2x01A-Mooshimeter-Wireless-Multimeter/dp/B011W4L7JA/"
-      - "https://core-electronics.com.au/mooshimeter.html"
-      - "https://www.sparkfun.com/products/13843"
-    notes: |
-      A Bluetooth Low Energy-based logging multimeter. This can measure circuits over time on its own, or in concert with a smartphone.
-      This would be super cool to have!
-
   - name: NanoHub
     link: "https://www.tindie.com/products/mux/nanohub-tiny-usb-hub-for-hacking-projects/"
     notes: |
       A USB hub on a tiny circuit board. I've got some ideas for projects incorporating these!
-
-  - name: Banana Pi M2 Zero
-    link:
-      - "https://sinovoip.en.alibaba.com/product/60740161336-805768482/Mini_single_board_computer_with_Wifi_BT_banana_pi_m2_zero.html"
-      - "https://www.aliexpress.com/store/product/Allwinner-H2-Open-source-hardware-platform-BPI-M2-zero-all-ineter-face-same-as-Raspberry-pi/302756_32839074880.html"
-      - "https://item.taobao.com/item.htm?id=560842926692"
-    notes: |
-      This is a tiny computer which is similar to the Raspberry Pi Zero, which you are more likely to have heard of.
-      It includes a few extra features which are intriguing for some projects I've been considering putting together.
-      Unfortunately, as a bit of a niche Chinese product, it's more or less only available from distributors in China proper, which can make shipping a pain.
 
   - name: PlayStation 2 Slim HDD connection kit
     link: "http://www.maxdiypower.com/index.php?main_page=product_info&products_id=80"
