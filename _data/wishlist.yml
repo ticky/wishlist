@@ -24,6 +24,9 @@ things:
       Might be hard to track down in good condition, but there seems to regularly be a handful on eBay
       (I'd prefer one without the watch body too yellowed compared to the strap, if possible!)
 
+  - name: Circatboard dress
+    link: "https://cakeswithfaces.co.uk/product/circatboard-cat-circuitboard-dress/"
+
   - name: 8Bitdo Controller Travel Case
     link:
       - "https://videogamesplus.ca/products/8bitdo-classic-controller-travel-case-for-sn30pro-pro-2-controllers"
@@ -31,6 +34,15 @@ things:
       - "https://www.amazon.ca/8Bitdo-Classic-Controller-Travel-Controllers/dp/B08XYNQCH6"
     notes: |
       This case would fit my Xbox One controller, which I use and travel with pretty regularly.
+
+    name: IODD ST400 Hard Drive Enclosure
+    link:
+      - "https://www.iodd.shop/IODD-ST400-USB-30-External-Encrypted-Hard-Drive-Enclosure"
+      - "https://www.ebay.ca/sch/i.html?_from=R40&_nkw=IODD+ST400&_sacat=0"
+      - "https://www.amazon.ca/IODD-ST400-Enclosure-Bootable-Encryption/dp/B0B3HQMV5T"
+      - "https://www.aliexpress.com/item/1005004847773795.html"
+    notes: |
+      A clever hard drive enclosure which can emulate a CD drive. Would be handy for working with computers in general, and particularly older ones.
 
   - name: 8BitDo Wireless USB Adapter 2
     link:
@@ -49,6 +61,20 @@ things:
     notes: |
       These are my favourite whisky glasses, and I used to have a set but I lost them in the move.
       I'd love to have some again. So far I've only found them in foodservice quantities but I got lucky once so maybe there's a way…
+
+  - name: Flisk
+    link:
+      - "https://dreamfarm.com/flisk/"
+      - "https://www.bergodesigns.ca/products/flisk"
+    notes: |
+      A whisk that folds flat! I've always wondered why this wasn't standard.
+
+  - name: Fluicer
+    link:
+      - "https://dreamfarm.com/fluicer/"
+      - "https://www.bergodesigns.ca/products/fluicer"
+    notes: |
+      A juicer that folds flat! Neat.
 
   - name: Onkyo K-505FX Cassette Deck
     link:
