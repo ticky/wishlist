@@ -16,6 +16,24 @@ wishlists:
     link: "https://www.gog.com/u/ticky/wishlist"
 
 things:
+  - name: Hackers (1995) 4K Blu-Ray (UK Version)
+    link: "https://videomatica.com/products/hackers-uk-import-deluxe-30th-anniversary-limited-edition-4k-uhd-region-b-blu-ray"
+
+  - name: "MemCard PRO2"
+    link: "https://8bitmods.com/memcard-pro2-for-ps2-and-ps1-smoke-black/"
+    notes: |
+      A modern, high-capacity and very flexible and convenient memory card for the venerable PlayStation and PlayStation 2.
+      My current solution to space issues is to copy saves to my PS2's hard drive, but this is fragile and easy to mess up.
+
+  - name: PS1 & PS2 UnoRetro Adapter
+    link: "https://www.willsconsolemodifications.co.uk/index.php?route=product/product&path=59_67&product_id=52"
+    notes: |
+      Quite an intriguing looking little wireless controller adapter for the PS1 and PS2, which allows the use of modern Bluetooth controllers with these consoles.
+      Not in stock at the time of writing, but someday…
+
+  - name: Aurahack Sky Infiltrator Windbreaker, White, L
+    link: "https://shop.aurahack.ca/en-cad/products/sky-infiltrator-windbreaker-white"
+
   - name: Swatch .beat “Site”, in white (model SQW100)
     link: "https://www.ebay.ca/sch/i.html?_from=R40&_nkw=Swatch+SQW100&_sacat=0&LH_TitleDesc=0&rt=nc&LH_PrefLoc=2"
     notes: |
@@ -68,6 +86,20 @@ things:
     notes: |
       A juicer that folds flat! Neat.
 
+  - name: Dewalt Plunge Base for Compact Router (DNP612)
+    link:
+      - "https://www.dewalt.ca/product/dnp612/plunge-base-compact-router"
+      - "https://www.atlas-machinery.com/dewalt/DEW-DNP612/?psrid=wtbs_692f3f274c7d2ab5b3cce3b3"
+      - "https://www.canadiantire.ca/en/pdp/dewalt-dnp612-plunge-base-for-compact-router-5742067p.html"
+      - "https://www.kmstools.com/dewalt-plunge-base-for-compact-router.html"
+
+  - name: Dewalt 20V USB-C Charging Kit (DCB094K)
+    link:
+      - "https://www.dewalt.ca/product/dcb094k/20v-max-flexvolt-usb-chargingpower-source-kit"
+      - "https://www.atlas-machinery.com/dewalt/DEW-DCB094K/"
+      - "https://www.rona.ca/en/product/dewalt-usb-power-tool-battery-charging-kit-20v-dcb094k-00277643"
+      - "https://www.kmstools.com/dewalt-20v-usb-c-charging-kit.html"
+
   - name: Onkyo K-505FX Cassette Deck
     link:
       - "https://buyee.jp/item/search/query/onkyo%20505fx/"
@@ -75,18 +107,6 @@ things:
     notes: |
       A compact cassette deck which would integrate with my hi-fi system.
       As a bonus, it's a highly capable model from the turn of the century, and so capable of playing almost any cassette I might want.
-
-  - name: "MemCard PRO2"
-    link: "https://8bitmods.com/memcard-pro2-for-ps2-and-ps1-smoke-black/"
-    notes: |
-      A modern, high-capacity and very flexible and convenient memory card for the venerable PlayStation and PlayStation 2.
-      My current solution to space issues is to copy saves to my PS2's hard drive, but this is fragile and easy to mess up.
-
-  - name: PS1 & PS2 UnoRetro Adapter
-    link: "https://www.willsconsolemodifications.co.uk/index.php?route=product/product&path=59_67&product_id=52"
-    notes: |
-      Quite an intriguing looking little wireless controller adapter for the PS1 and PS2, which allows the use of modern Bluetooth controllers with these consoles.
-      Not in stock at the time of writing, but someday…
 
   - name: Cat Soldering Kit
     link: "https://www.adafruit.com/product/5237"
