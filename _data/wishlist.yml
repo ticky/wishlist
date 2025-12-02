@@ -93,16 +93,6 @@ things:
     notes: |
       A very cute little soldering kit I'd love to have a go at, and a pretty little accessory to keep somewhere once it's finished!
 
-  - name: Peak Design Cuff
-    link: "https://www.peakdesign.com/collections/straps/products/cuff?variant=9783844110380"
-    notes: |
-      A much nicer, compact camera strap than the one my Olympus came with.
-
-  - name: TV-B-Gone Kit
-    link:
-      - "https://www.adafruit.com/product/73"
-      - "https://www.mouser.ca/ProductDetail/Adafruit/73?qs=GURawfaeGuApUVdoRfhzqQ%3D%3D"
-
   - name: Belkin USB-C Mini Hub
     link:
       - "https://www.cdw.ca/product/belkin-usb-c-4-port-mini-hub-hub-4-ports/4706842"
